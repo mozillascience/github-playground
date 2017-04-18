@@ -1,4 +1,4 @@
 # github-playground
- A place to play with github issues without consequence! 
+### A place to play with github issues without consequence! 
 
-New file
+Contribute to a "Knowledge Lab" while learning.
